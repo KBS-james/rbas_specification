@@ -13,3 +13,7 @@
 # hash link relation
 
 ![hash-link](pictures/rbas-hash-link-.PNG)
+
+# hash link relation
+
+![hash-sync](pictures/rbas-sync-layers-.PNG)
