@@ -4,7 +4,7 @@
 
 # heart beat sync loop
 
-![hash-d3d032cc](pictures/rbas-hb-loop-d3d032cc.PNG)
+![hash-d3d032cc](pictures/rbas-hb-loops.PNG)
 
 # overall system dashboard
 
