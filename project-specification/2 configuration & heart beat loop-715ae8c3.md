@@ -2,18 +2,18 @@
 
 ![hash-ec188581](pictures/rbas_spec_layout-ec188581.PNG)
 
+# hash sync layers
+
+![hash-sync](pictures/rbas-sync-layers-.PNG)
+
 # heart beat sync loop
 
-![hash-d3d032cc](pictures/rbas-hb-loops.PNG)
-
-# overall system dashboard
-
-![hash-5574b864](pictures/dashboard-20200213-5574b864.PNG)
+![hash-loops](pictures/rbas-hb-loops.PNG)
 
 # hash link relation
 
 ![hash-link](pictures/rbas-hash-link-.PNG)
 
-# hash link relation
+# overall system dashboard
 
-![hash-sync](pictures/rbas-sync-layers-.PNG)
+![hash-5574b864](pictures/dashboard-20200213-5574b864.PNG)
